@@ -1,1 +1,4 @@
+﻿3. Простіше, краще ніж складне
+4. Complex is better than complicated.
+5. Flat is better than nested.
 6. Sparse is better than dense.
