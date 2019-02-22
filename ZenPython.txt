@@ -4,3 +4,4 @@
 4. Complex is better than complicated.
 5. Flat is better than nested.
 ﻿6. Sparse is better than dense.
+10. Errors should never pass silently.
